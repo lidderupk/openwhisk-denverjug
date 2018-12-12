@@ -9,4 +9,4 @@ Upkar Lidder
 Upkar is a Full Stack Developer and Data Wrangler with a decade of development experience in a variety of roles. Currently curious about magic behind ML.
 
 ## Presentation
- [asset/upkar-openwhisk.pdf](Apache OpenWhisk Presentation)
+[Apache OpenWhisk Presentation](asset/upkar-openwhisk.pdf)
